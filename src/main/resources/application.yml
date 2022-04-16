@@ -1,0 +1,6 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: maersk
+      port: 9042
+      local-datacenter: datacenter1
